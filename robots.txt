@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-n32ism.saturadar88win.cfd/sitemap.xml
